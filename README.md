@@ -5,7 +5,7 @@
 ## Table of contents
 
 - [Project Overview](#project-overview)
-- [Data Soures](#data-sources)
+- [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results](#results)
