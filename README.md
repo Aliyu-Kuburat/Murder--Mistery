@@ -13,7 +13,7 @@
 
 ### Project Overview
 
-![Murder_mistery](https://github.com/Aliyu-Kuburat/Murder--Mistery/assets/156312358/915d7d8b-f922-4c93-aea6-3c212e5749af)
+http://localhost:8889/notebooks/Documents/My%20Notebook/Murder%20Mistery.ipynb
 
 There's been a Murder in SQL City! The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 
@@ -27,7 +27,7 @@ Sales data: The primary dataset used for this analysis is the "sql-murder-mister
 ## Tools
 
 - I used only jupyter notebook for this project
-  - [Click to access workbook]([https://github.com/](http://localhost:8889/notebooks/Documents/Kuburat%20Adijat/Murder%20Mistery.ipynb)
+  - [Click to access workbook](http://localhost:8889/notebooks/Documents/My%20Notebook/Murder%20Mistery.ipynb)
 
 ### Exploratory Data Analysis
 
